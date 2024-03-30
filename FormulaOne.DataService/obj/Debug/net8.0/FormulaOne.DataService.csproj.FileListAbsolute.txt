@@ -1,0 +1,17 @@
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.deps.json
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfoInputs.cache
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfo.cs
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.CoreCompileInputs.cache
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/refint/FormulaOne.DataService.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/ref/FormulaOne.DataService.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.runtimeconfig.json
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.AssemblyReference.cache
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaO.1F042CB4.Up2Date
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.genruntimeconfig.cache

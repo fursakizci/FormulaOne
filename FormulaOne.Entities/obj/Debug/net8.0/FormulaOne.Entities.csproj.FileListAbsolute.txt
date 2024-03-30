@@ -1,0 +1,11 @@
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.deps.json
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfoInputs.cache
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfo.cs
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/ref/FormulaOne.Entities.dll
