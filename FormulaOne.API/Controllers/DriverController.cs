@@ -5,6 +5,8 @@ using FormulaOne.DataService.Resositories.Interfaces;
 using FormulaOne.Entities.DbSet;
 using FormulaOne.Entities.Dtos.Requests;
 using FormulaOne.Entities.Dtos.Responses;
+using FormulaOne.Services.General.Interfaces;
+using Hangfire;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -39,7 +41,11 @@ public class DriverController:BaseController
 
         var command = new CreateDriverInfoRequest(driver);
         var result = await Mediator.Send(command);
+        //Fire and Forget  
+        var jobId = BackgroundJob.Enqueue<IEmailService>(x=>
+            x.SendWelcomeEmail("m@m.com",$"{driver.FirstName} {driver.LastName}"));
         
+        Console.WriteLine(jobId);
         
         return CreatedAtAction(nameof(GetDriver), new
         {
@@ -55,6 +61,11 @@ public class DriverController:BaseController
 
         var command = new UpdateDriverInfoRequest(driver);
         var result = await Mediator.Send(command);
+
+        var jobId = BackgroundJob.Schedule<IMaintenanceService>(x =>
+            x.SyncRecords(), TimeSpan.FromSeconds(20));
+        
+        Console.WriteLine(jobId);
         
         return result ? NoContent() : BadRequest();
     }
@@ -77,6 +88,9 @@ public class DriverController:BaseController
 
         var command = new DeleteDriverInfoRequest(driverId);
         var result = await Mediator.Send(command);
+        
+        RecurringJob.AddOrUpdate<IMerchService>(x=>
+            x.RemoveMerch(driverId),Cron.Minutely);
 
         return result ? NoContent() : BadRequest();
     }

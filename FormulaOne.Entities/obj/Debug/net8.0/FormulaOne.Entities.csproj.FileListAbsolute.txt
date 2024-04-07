@@ -9,3 +9,4 @@
 /Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
 /Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb
 /Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/ref/FormulaOne.Entities.dll
+/Users/furkansakizci/Projects/FormulaOne/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.sourcelink.json

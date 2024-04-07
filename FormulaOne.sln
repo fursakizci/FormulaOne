@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.DataService", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Entities", "FormulaOne.Entities\FormulaOne.Entities.csproj", "{F7916789-917E-479E-890F-761339168A6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Services", "FormulaOne.Services\FormulaOne.Services.csproj", "{E73C01BC-0F67-4EB4-9CDD-45BCB7195615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F7916789-917E-479E-890F-761339168A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7916789-917E-479E-890F-761339168A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7916789-917E-479E-890F-761339168A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73C01BC-0F67-4EB4-9CDD-45BCB7195615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73C01BC-0F67-4EB4-9CDD-45BCB7195615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73C01BC-0F67-4EB4-9CDD-45BCB7195615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73C01BC-0F67-4EB4-9CDD-45BCB7195615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
